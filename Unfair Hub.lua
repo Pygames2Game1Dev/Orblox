@@ -69,6 +69,14 @@ Jailbreak
 
 ┋ Main ┋
 =======================================
+You can also make scripts like these by following tutorials at [Main Tutorials] File,
+
+
+Then watch Scriptings and then watch tutorials at UI Libraries File or use Mercury UI
+And read it on how to use it,
+
+
+If you want to make a Executor then go to Executors File.
 ]]
 -- This file was generated using Luraph Obfuscator v13.6.6
 
