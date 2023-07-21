@@ -75,7 +75,7 @@ You can create scripts like this by using the following step-by-step tutorials p
 
 These tutorials will guide you on script creation and usage. 
 
-Additionally, you can enhance your skills by watching scripting videos and tutorials available at UI Libraries File or by using Mercury UI. 
+Additionally, you can enhance your skills by watching scripting videos and tutorials available at UI Libraries File or by going to UI Libraries 2 to do it without doing the tutorial. 
 
 For detailed instructions on creating an Executor, please refer to the Executors File.
 ]]
